@@ -4,7 +4,7 @@ Hi, I'm Anup Baral
 💻 Django & Python Web Developer  
 📍 Pokhara, Nepal  
 
-I am a Bachelor of Information Management (BIM) student with hands-on experience in building Django-based web applications. I enjoy developing backend systems and working on real-world projects. Currently seeking a **software development internship** to apply my skills and gain industry experience.
+IT student with hands-on experience in building Django-based web applications. I enjoy developing backend systems and working on real-world projects. Currently working as a backend Django developer
 
 ---
 
@@ -49,6 +49,7 @@ A full-stack ecommerce web application where admins can manage products from mul
 https://github.com/AnupBaral490/shoppingcartwebsite
 
 ---
+
 
 ## 🎯 Achievements
 
