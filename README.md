@@ -145,7 +145,7 @@ Backend isn’t just code. It’s architecture.
 
 
 
-![snake gif](https://github.com/AnupBaral490/AnupBaral490/blob/output/github-snake-dark.svg) 
+![snake gif](https://github.com/AnupBaral490/AnupBaral490/blob/output/github-snake.svg) 
 
 <h1 align="center">⚠️ WELCOME TO THE DARK SIDE ⚠️</h1>
 
