@@ -144,3 +144,28 @@ Backend isn’t just code. It’s architecture.
 </p>
 
 
+
+![snake gif](https://github.com/AnupBaral490/AnupBaral490/blob/output/github-snake-dark.svg) 
+
+<h1 align="center">⚠️ WELCOME TO THE DARK SIDE ⚠️</h1>
+
+<p align="center">
+  ☠️ Unauthorized presence detected... ☠️
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+<h1 align="center">☠️ ANUP BARAL ☠️</h1>
+
+<p align="center">
+  🔥 SYSTEM BREACH INITIATED 🔥 <br>
+  👁️ WATCHING YOU... 👁️
+</p>
+
+<p align="center">
+  🩸 <img src="https://komarev.com/ghpvc/?username=AnupBaral490&label=INTRUDERS&color=8B0000&style=for-the-badge"/> 🩸
+</p>
+
+
