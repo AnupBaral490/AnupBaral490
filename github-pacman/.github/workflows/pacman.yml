@@ -1,0 +1,23 @@
+name: Generate Pacman
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Pacman animation
+        uses: abozanona/github-readme-pacman@main
+        with:
+          github_user_name: AnupBaral490
+
+      - name: Push Pacman
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update Pacman animation"
