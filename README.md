@@ -81,19 +81,42 @@ Backend Developer | Django & REST Framework Specialist
 <hr style="border:0.5px solid #E5E7EB; margin:25px 0;">
 
 <!-- TECH STACK -->
-<h2 style="font-family:Segoe UI, Arial, sans-serif; color:#1F2937; border-bottom:2px solid #1F2937; display:inline-block; padding-bottom:5px;">🛠 Tools & Technologies</h2>
-<p style="margin-top:10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</p>
+<h2 style="font-family:Segoe UI, Arial, sans-serif; color:#00FF41; border-bottom:2px solid #00FF41; display:inline-block; padding-bottom:5px;">
+🛠 Tools & Technologies
+</h2>
 
+<p style="margin-top:15px; display:flex; flex-wrap:wrap; gap:10px; justify-content:center; align-items:center;">
+
+<!-- Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" title="Python"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50" title="Django"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50" title="Flask"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" title="FastAPI"/>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scrapy/scrapy-original.svg" width="50" height="50" title="Scrapy"/>-->
+<img src="https://playwright.dev/img/playwright-logo.svg" width="50" height="50" title="Playwright"/>
+
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" title="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" title="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" height="50" title="Redis"/>
+
+<!-- Security / Mobile -->
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Genymotion_Logo.png" width="50" height="50" title="Genymotion"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-plain.svg" width="50" height="50" title="Burp Suite"/>-->
+
+<!-- CMS / Web -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="50" height="50" title="WordPress"/>
+
+<!-- Frontend / Styling -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" title="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" title="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" title="Bootstrap"/>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="TailwindCSS"/>-->
+
+<!-- Automation / API -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" width="50" height="50" title="Postman"/>
+
+</p>
 <hr style="border:0.5px solid #E5E7EB; margin:25px 0;">
 
 <!-- GITHUB STATS -->
