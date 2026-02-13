@@ -139,8 +139,20 @@ Backend Developer | Django & REST Framework Specialist
 </a>
 </p>
 
-<p align="center" style="font-family:Segoe UI, Arial, sans-serif; color:#6B7280; font-style:italic;">
-Backend isn’t just code. It’s architecture.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+Backend+Systems...;Loading+Secure+APIs...;Establishing+Data+Control..." />
+</p>
+<p align="center">
+  <strong style="font-size:32px; color:#B91C1C; text-shadow: 0px 0px 10px #7F1D1D;">
+    ⚠ I DON’T DEBUG BUGS.
+  </strong>
+</p>
+
+<p align="center">
+  <strong style="font-size:24px; color:#991B1B;">
+    I DESIGN SYSTEMS THAT DON’T BREAK.
+  </strong>
 </p>
 
 
