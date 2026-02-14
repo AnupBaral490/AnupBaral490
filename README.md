@@ -33,6 +33,47 @@ Backend Developer | Django & REST Framework Specialist
 
 <hr style="border:0.5px solid #E5E7EB; margin:25px 0;">
 
+<h2 align="center"> ESTABLISH SECURE CONNECTION </h2>
+
+<p align="center">
+  🩸 ENTER AT YOUR OWN RISK 🩸
+</p>
+
+<p align="center">
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/anup.baral.3551" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ff0000/facebook-new.png" height="35"/>
+  </a>
+
+  <!-- Topcoder -->
+  <a href="https://www.topcoder.com/members/04694" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ff0000/code.png" height="35"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/AnupBaral490" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ff0000/github.png" height="35"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:baralanup832@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ff0000/new-post.png" height="35"/>
+  </a>
+
+  <!-- Phone -->
+  <a href="tel:+9779846880980">
+    <img src="https://img.icons8.com/ios-filled/50/ff0000/phone.png" height="35"/>
+  </a>
+
+</p>
+
+<p align="center">
+  👁️ SIGNAL TRACE INITIATED... 👁️ <br>
+  🔥 YOU HAVE BEEN LOGGED 🔥
+</p>
+
+
 <!-- CURRENT PROJECT -->
 <h2 style="font-family:Segoe UI, Arial, sans-serif; color:#1F2937; border-bottom:2px solid #1F2937; display:inline-block; padding-bottom:5px;">🚀 Current Project</h2>
 <div style="font-family:Segoe UI, Arial, sans-serif; background-color:#F9FAFB; padding:20px; border-radius:10px; margin-top:15px; box-shadow:0 2px 4px rgba(0,0,0,0.05);">
@@ -148,19 +189,7 @@ Backend Developer | Django & REST Framework Specialist
 
 <hr style="border:0.5px solid #E5E7EB; margin:25px 0;">
 
-<!-- CONNECT -->
-<h2 style="font-family:Segoe UI, Arial, sans-serif; color:#1F2937; border-bottom:2px solid #1F2937; display:inline-block; padding-bottom:5px;">🔗 Connect With Me</h2>
-<p>
-<a href="https://www.facebook.com/anup.baral.3551" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-<a href="https://www.topcoder.com/members/04694" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40"/>
-</a>
-<a href="https://github.com/AnupBaral490" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-</a>
-</p>
+
 
 
 <p align="center">
