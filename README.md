@@ -204,6 +204,15 @@ Backend Developer | Django & REST Framework Specialist
   </a>
 </p>
 </div>
+
+<h2 align="center">⚡ Language Arsenal ⚡</h2>
+
+<p align="center">
+Python ████████████████ 90% <br>
+Django ███████████████ 85% <br>
+REST API █████████████ 80% <br>
+HTML/CSS ██████████ 70% <br>
+</p>
 <p align="center" style="margin-top:15px;">
 <img src="https://streak-stats.demolab.com?user=anupbaral490&theme=tokyonight" width="400"/>
 </p>
