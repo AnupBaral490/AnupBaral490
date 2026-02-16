@@ -28,7 +28,17 @@ Backend Developer | Django & REST Framework Specialist
   <li>🚀 Deploying production-ready web applications</li>
   <li>💬 Ask me about <strong>Django, REST APIs, Postman, Deployment</strong></li>
   <li>📫 Reach me at: <strong>baralanup832@gmail.com</strong></li>
-  <li>⚡ Fun Fact: <em>I don’t design buttons. I build the systems that make them work.</em></li>
+ 
+
+  <h2 align="center" style="color:#00FF41;">💀 Fun Fact</h2>
+
+<p align="center" style="font-size:18px; color:#FF5555; text-shadow: 0px 0px 8px #FF0000, 0px 0px 12px #FF0000;">
+⚡ I don’t design buttons. I build the systems that make them work. ⚡
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=24&center=true&width=600&lines=I+don’t+design+buttons.;I+build+the+systems+that+make+them+work." />
+</p>
 </ul>
 
 <hr style="border:0.5px solid #E5E7EB; margin:25px 0;">
