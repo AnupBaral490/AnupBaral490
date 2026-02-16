@@ -205,17 +205,47 @@ Backend Developer | Django & REST Framework Specialist
 </p>
 </div>
 
-<h2 align="center">⚡ Language Arsenal ⚡</h2>
+<h2 align="center">⚡ Language & Tech Arsenal ⚡</h2>
 
+<table align="center" cellspacing="10">
+<tr>
+<!-- Backend Core -->
+<td valign="top" width="250">
+<h3 align="center" style="color:#00FF41;">💻 Backend Core</h3>
 <p align="center">
-Python ████████████████ 90% <br>
-Django ███████████████ 85% <br>
-REST API █████████████ 80% <br>
-HTML/CSS ██████████ 70% <br>
+<strong>Python</strong><br>
+<img src="https://img.shields.io/badge/Proficiency-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br><br>
+
+<strong>Django</strong><br>
+<img src="https://img.shields.io/badge/Proficiency-85%25-092E20?style=for-the-badge&logo=django&logoColor=white" /><br><br>
+
+<strong>REST APIs</strong><br>
+<img src="https://img.shields.io/badge/Proficiency-80%25-FF6F61?style=for-the-badge&logo=swagger&logoColor=white" /><br><br>
+
+<strong>FastAPI</strong><br>
+<img src="https://img.shields.io/badge/Proficiency-75%25-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
-<p align="center" style="margin-top:15px;">
-<img src="https://streak-stats.demolab.com?user=anupbaral490&theme=tokyonight" width="400"/>
+</td>
+
+<!-- Supporting Stack -->
+<td valign="top" width="250">
+<h3 align="center" style="color:#00FF41;">🌐 Supporting Stack</h3>
+<p align="center">
+<strong>HTML / CSS</strong><br>
+<img src="https://img.shields.io/badge/Proficiency-70%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br><br>
+
+<strong>Bootstrap</strong><br>
+<img src="https://img.shields.io/badge/Proficiency-70%25-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><br><br>
+
+<strong>PostgreSQL</strong><br>
+<img src="https://img.shields.io/badge/Proficiency-75%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br><br>
+
+<strong>Git / GitHub</strong><br>
+<img src="https://img.shields.io/badge/Proficiency-80%25-181717?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+</td>
+</tr>
+</table>
 
 <hr style="border:0.5px solid #E5E7EB; margin:25px 0;">
 
