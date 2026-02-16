@@ -109,7 +109,7 @@ Backend Developer | Django & REST Framework Specialist
   <div style="flex:1 1 300px; background-color:#F9FAFB; padding:15px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="margin-bottom:5px;">🌐 Mini Social Network</h4>
     <p style="margin-top:0; font-size:14px; color:#4B5563;">Authentication, posts & user interaction system.</p>
-    <a href="https://github.com/Darshan801/mini-social-network" target="_blank" style="color:#2563EB; font-weight:600;">🔗 Repository</a>
+    <a href="https://github.com/AnupBaral490/social_media_network" target="_blank" style="color:#2563EB; font-weight:600;">🔗 Repository</a>
   </div>
 
   <div style="flex:1 1 300px; background-color:#F9FAFB; padding:15px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
